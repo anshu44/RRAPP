@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+	<Resource name="jdbc/RRAPP_DB" auth="Container" type="javax.sql.DataSource"
+		maxActive="150" maxIdle="100" maxWait="10000" username="root"
+		password="" driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/RRAPP_DB" />
+
+</Context>
